@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PracticeTaskMVVM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_title_home">Home</string>
+    <string name="menu_title_gallery">Gallery</string>
+    <string name="menu_title_to_do">To Do</string>
+    <string name="under_development">Under development</string>
+    <string name="placeholder_product_title">title</string>
+    <string name="placeholder_product_subtitle">subtitle</string>
+    <string name="error_msg_no_internet_connection">No Internet Connection</string>
+    <string name="product_list">Product List</string>
+    <string name="gallery">Gallery</string>
+</resources>

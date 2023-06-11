@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:title="@string/menu_title_home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/galleryFragment"
+        android:title="@string/menu_title_gallery"
+        android:icon="@drawable/ic_gallery"/>
+    <item
+        android:id="@+id/toDoFragment"
+        android:title="@string/menu_title_to_do"
+        android:icon="@drawable/ic_todo"/>
+
+</menu>
